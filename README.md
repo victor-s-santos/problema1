@@ -3,11 +3,11 @@
 *  No caso eu utilizei o jupyter, por ele ser interativo isso agiliza bastante o desenvolvimento do código.
 
 *  Como rodar:
-  * Abra o terminal em seu diretório de preferência e execute git clone https://github.com/victor-s-santos/problema1.git, para clonar o repositório;
-  * Aconselhável criar um ambiente virtual e abrir o jupyter dentro dele, para isso rode python -m venv .env;
-  * Então abra este ambiete source .env/bin/activate, e execute os seguintes passos;
-  * Instale as dependências rodando pip install -r requirements.txt;
-  * Abra o ambiente interativo do jupyter rodando: jupyter notebook;
+   Abra o terminal em seu diretório de preferência e execute git clone https://github.com/victor-s-santos/problema1.git, para clonar o repositório;
+   Aconselhável criar um ambiente virtual e abrir o jupyter dentro dele, para isso rode python -m venv .env;
+   Então abra este ambiete source .env/bin/activate, e execute os seguintes passos;
+   Instale as dependências rodando pip install -r requirements.txt;
+   Abra o ambiente interativo do jupyter rodando: jupyter notebook;
 
  
  
