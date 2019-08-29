@@ -13,4 +13,3 @@
  
 ## Implementações que faltaram, pois faltou conhecimento sobre como utilizá-las: funções map, filter e reduce;
 
-## Unificar todas as funções numa classe, já que todas elas recebem como argumento as apis.
