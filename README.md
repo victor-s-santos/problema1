@@ -10,6 +10,3 @@
   5. Abra o ambiente interativo do jupyter rodando: **jupyter notebook**;
 
  
- 
-## Implementações que faltaram, pois faltou conhecimento sobre como utilizá-las: funções map, filter e reduce;
-
